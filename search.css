@@ -1,0 +1,13 @@
+.search a{
+	color:black;
+	text-decoration: none;
+}
+.search a:hover{
+	color:white;
+	text-decoration: none;
+	cursor:pointer;
+
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #337AB7;
